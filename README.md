@@ -1,15 +1,9 @@
 # senior-project-practice
 
-One-Hour GitHub Development Bootcamp
+Senior Project Developer Profile
 
-Purpose
-The purpose of this assignment is to make sure every student can independently complete the basic Git/GitHub workflow that will be used during Senior Project. This is an individual, in-class assignment designed to be completed in approximately 60 minutes.
+Name: Jasmine Monari
+Technology Interest: Intellectual Property Law
+Skill Goal: AI Ethics & Responsible Development'
 
-By the end of the exercise, you should be able to:
-- create a GitHub repository
-- clone the repository
-- create a branch
-- modify code
-- commit and push changes
-- create a Pull Request
-- merge your work into the main branch
+Branch → Code → Commit → Push → Pull Request → Review → Merge
